@@ -91,13 +91,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AthithyaKrishnaa&layout=compact&theme=ambient_gradient)
 
 ---
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=AthithyaKrishnaa&theme=ambient_gradient&margin-w=8)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AthithyaKrishnaa&icon=1&color=0" />
-</p>
