@@ -7,7 +7,7 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
 🔭 **I’m currently working on**
 - End-to-end Machine Learning & Deep Learning projects  
@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 🔹 **Training Word Embeddings**  
 📌 Built word embeddings from scratch for NLP representation learning  
