@@ -1,5 +1,5 @@
 <h1 align="center">Athithya Krishnaa M</h1>
-<h3 align="center">AI & Computer Vision Engineer | B.Tech Information Technology</h3>
+<h3 align="center">AI / ML / DL Engineer | B.Tech Information Technology</h3>
 
 <p align="center">
   <i>Data Science Intern @ Innoura Technologies • Real-Time ML Systems • Deep Learning Enthusiast</i>
@@ -7,15 +7,9 @@
 
 ---
 
-## 👨‍💻 About Me
+## Experience
 
-I am a B.Tech Information Technology student focused on building **real-time AI systems** using Machine Learning and Deep Learning.
-
----
-
-## 🚀 Experience
-
-### 🏢 Data Science Intern — Innoura Technologies  
+### Data Science Intern — Innoura Technologies  
 **Dec 2025 – Feb 2026**
 
 - Built and optimized computer vision pipelines for real-time safety monitoring  
@@ -33,11 +27,11 @@ I am a B.Tech Information Technology student focused on building **real-time AI 
 
 ---
 
-## 🧠 Featured Projects
+## Featured Projects
 
 ---
 
-### 🔹 2× Swin2SR Video Enhancer
+### 2× Swin2SR Video Enhancer
 AI-powered super-resolution system for video enhancement.
 
 - Deep learning-based 2X upscaling  
@@ -48,7 +42,7 @@ AI-powered super-resolution system for video enhancement.
 
 ---
 
-### 🔹 Driver Drowsiness Detection with H.264 Compression
+### Driver Drowsiness Detection with H.264 Compression
 Safety-critical real-time fatigue monitoring system.
 
 - CNN-based classification  
@@ -60,7 +54,7 @@ Safety-critical real-time fatigue monitoring system.
 ---
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Programming
 - Python
@@ -97,7 +91,7 @@ Safety-critical real-time fatigue monitoring system.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **NPTEL – Python for Data Science (Jul 2025 – Aug 2025)**
 
@@ -106,16 +100,11 @@ Safety-critical real-time fatigue monitoring system.
 ## 🌐 Connect With Me
 
 📍 Chennai, Tamil Nadu  
-📧 athithyakrishnaam@gmail.com  
+📧 Mail: athithyakrishnaam@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/athithya-krishnaa-4bbba0295/  
 💻 GitHub: https://github.com/AthithyaKrishnaa  
 
 ---
-
-## 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=AthithyaKrishnaa&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AthithyaKrishnaa&layout=compact)
 
 
 
