@@ -1,93 +1,143 @@
-<h1 align="center">Hi, I'm Athithya Krishna 👋</h1>
-<h3 align="center">Data Science | Machine Learning | Deep Learning</h3>
+<h1 align="center">Athithya Krishnaa M</h1>
+<h3 align="center">AI & Computer Vision Engineer | B.Tech Information Technology</h3>
 
 <p align="center">
-  <i>Intern @ Innoura Technologies • Computer Vision & NLP Enthusiast</i>
+  <i>Data Science Intern @ Innoura Technologies • Real-Time ML Systems • Deep Learning Enthusiast</i>
 </p>
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
-🔭 **I’m currently working on**
-- End-to-end Machine Learning & Deep Learning projects  
-- Computer Vision and NLP solutions using real-world datasets  
-- Improving model evaluation, robustness, and experimentation workflows  
+I am a B.Tech Information Technology student focused on building **real-time AI systems** using Machine Learning and Deep Learning.
 
-👯 **I’m looking to collaborate on**
-- Data Science & Machine Learning projects  
-- Computer Vision (image/video enhancement, super-resolution)  
-- NLP tasks involving embeddings and representation learning  
+During my internship at **Innoura Technologies (Dec 2025 – Feb 2026)**, I worked on production-oriented computer vision pipelines and designed models achieving **80% mAP@0.5** on multi-class detection tasks.
 
-🤝 **I’m looking for help with**
-- Advanced deep learning optimization techniques  
-- Model interpretability & evaluation beyond accuracy  
-- Production-oriented ML and MLOps fundamentals  
-
-🌱 **I’m currently learning**
-- CNNs, Transformers, and Swin-based architectures  
-- Word2Vec and embedding training from scratch  
-- Research-driven model design and validation  
-
-💬 **Ask me about**
-- Machine Learning & Deep Learning fundamentals  
-- Word embeddings and NLP preprocessing  
-- Image & video super-resolution  
-- My internship experience at **Innoura Technologies**  
-
-⚡ **Fun fact**
-- I enjoy building both **vision and language models**—from NLP embeddings to video enhancement systems  
+I am particularly interested in:
+- Computer Vision
+- Deep Learning model optimization
+- NLP & Representation Learning
+- Real-time inference systems
 
 ---
 
-##  Featured Projects
+## 🚀 Experience
 
-🔹 **Training Word Embeddings**  
-📌 Built word embeddings from scratch for NLP representation learning  
-🔗 https://github.com/AthithyaKrishnaa/Training-Word-Embeddings  
+### 🏢 Data Science Intern — Innoura Technologies  
+**Dec 2025 – Feb 2026**
 
-🔹 **2× Swin2SR Video Enhancer**  
-📌 Deep learning–based video super-resolution using Swin2SR  
+- Built and optimized computer vision pipelines for real-time safety monitoring  
+- Developed PPE detection system using **Faster R-CNN (ResNet50-FPN + SAM Optimizer)**  
+- Trained on **36,895 images across 10 classes**
+- Achieved:
+  - **80% mAP@0.5**
+  - 76.7% Precision
+  - 76.5% Recall  
+- Implemented:
+  - Gradient clipping  
+  - Learning rate scheduling  
+  - Early stopping  
+- Conducted model evaluation using F1-score, Precision, Recall, MCC  
+
+---
+
+## 🧠 Featured Projects
+
+### 🔹 PPE Detection using Faster R-CNN
+Real-time personal protective equipment detection system.
+
+- 80% mAP@0.5  
+- 36,895 training images  
+- PyTorch, CUDA, ResNet50-FPN, SAM Optimizer  
+
+---
+
+### 🔹 2× Swin2SR Video Enhancer
+AI-powered super-resolution system for video enhancement.
+
+- Deep learning-based 2X upscaling  
+- Artifact reduction techniques  
+- PyTorch, OpenCV  
+
 🔗 https://github.com/AthithyaKrishnaa/2X-Swin2SR-VideoEnhancer  
+
+---
+
+### 🔹 Driver Drowsiness Detection with H.264 Compression
+Safety-critical real-time fatigue monitoring system.
+
+- CNN-based classification  
+- Facial landmark detection  
+- H.264 optimized video processing  
+
+🔗 https://github.com/AthithyaKrishnaa/H.264-Compression-Drowsiness-detection-CNN  
+
+---
+
+### 🔹 RockFall Prediction System (SIH Hackathon – Top 16)
+Mining safety prediction system developed under 24-hour constraint.
+
+- End-to-end ML prototype  
+- Selected among Top 16 teams  
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
+- Python
+
+### Machine Learning
+- Supervised & Unsupervised Learning  
+- Scikit-learn  
+- TensorFlow  
+
+### Deep Learning
+- PyTorch  
+- CNNs  
+- ResNet  
+- Swin2SR  
+
+### Computer Vision
+- OpenCV  
+- Faster R-CNN  
+- Facial Landmark Detection  
+
+### Model Evaluation
+- mAP  
+- F1-Score  
+- Precision  
+- Recall  
+- MCC  
+
+### Tools
+- Git  
+- GitHub  
+- VSCode  
+- JupyterLab  
+- Google Colab  
+
+---
+
+## 📜 Certifications
+
+- **NPTEL – Python for Data Science (Jul 2025 – Aug 2025)**
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athithya-krishnaa-4bbba0295/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:athithyakrishnaam@gmail.com)
+📍 Chennai, Tamil Nadu  
+📧 athithyakrishnaam@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/athithya-krishnaa-4bbba0295/  
+💻 GitHub: https://github.com/AthithyaKrishnaa  
 
 ---
 
-## 💻 Tech Stack
+## 📊 GitHub Analytics
 
-### 📊 Data Science & ML
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![](https://github-readme-stats.vercel.app/api?username=AthithyaKrishnaa&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AthithyaKrishnaa&layout=compact)
 
-### 🤖 Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 
-### ☁️ Tools & Platforms
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?logo=netlify&logoColor=00C7B7)
-![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-171717?logo=ffmpeg&logoColor=5cb85c)
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AthithyaKrishnaa&theme=ambient_gradient&show_icons=true)
-![](https://nirzak-streak-stats.vercel.app/?user=AthithyaKrishnaa&theme=ambient_gradient)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AthithyaKrishnaa&layout=compact&theme=ambient_gradient)
-
----
