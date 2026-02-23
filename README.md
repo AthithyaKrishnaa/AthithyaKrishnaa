@@ -11,14 +11,6 @@
 
 I am a B.Tech Information Technology student focused on building **real-time AI systems** using Machine Learning and Deep Learning.
 
-During my internship at **Innoura Technologies (Dec 2025 – Feb 2026)**, I worked on production-oriented computer vision pipelines and designed models achieving **80% mAP@0.5** on multi-class detection tasks.
-
-I am particularly interested in:
-- Computer Vision
-- Deep Learning model optimization
-- NLP & Representation Learning
-- Real-time inference systems
-
 ---
 
 ## 🚀 Experience
@@ -42,13 +34,6 @@ I am particularly interested in:
 ---
 
 ## 🧠 Featured Projects
-
-### 🔹 PPE Detection using Faster R-CNN
-Real-time personal protective equipment detection system.
-
-- 80% mAP@0.5  
-- 36,895 training images  
-- PyTorch, CUDA, ResNet50-FPN, SAM Optimizer  
 
 ---
 
@@ -74,13 +59,6 @@ Safety-critical real-time fatigue monitoring system.
 
 ---
 
-### 🔹 RockFall Prediction System (SIH Hackathon – Top 16)
-Mining safety prediction system developed under 24-hour constraint.
-
-- End-to-end ML prototype  
-- Selected among Top 16 teams  
-
----
 
 ## 🛠 Tech Stack
 
