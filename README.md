@@ -1,7 +1,9 @@
 <h1 align="center">ATHITHYA KRISHNAA M</h1>
 <p align="center">
   +91 84384 31261 | athithyakrishnaam@gmail.com<br>
-  github.com/athithyakrishnaa | linkedin.com/in/athithyakrishnaa | athithyakrishnaa.netlify.app<br>
+  <a href="https://github.com/athithyakrishnaa">github.com/athithyakrishnaa</a> |
+  <a href="https://linkedin.com/in/athithyakrishnaa">linkedin.com/in/athithyakrishnaa</a> |
+  <a href="https://athithyakrishnaa.netlify.app">athithyakrishnaa.netlify.app</a><br>
   Chennai, Tamil Nadu – 600119
 </p>
 
@@ -52,13 +54,13 @@ Bachelor of Technology in Information Technology | CGPA: 8.6 / 10.0 | 2023 – P
 ## PROJECTS
 
 ### Industrial Safety System with Explainable AI PPE Detection
-github.com/AthithyaKrishnaa/ppe-detection-system
+[github.com/AthithyaKrishnaa/ppe-detection-system](https://github.com/AthithyaKrishnaa/ppe-detection-system)
 
 - Engineered a transformer-based RT-DETRv4-X detection model across 4 PPE classes on a 12,000+ image dataset, achieving 84.1% mAP at IoU 50 on NVIDIA RTX 4070 SUPER 12GB VRAM GPU.
 - Integrated Explainable AI using EigenCAM to validate and interpret model decisions through activation heatmaps, increasing trust in automated safety alerts.
 
 ### AI-based Driver Drowsiness Detection using CNN
-github.com/AthithyaKrishnaa/H.266-Compression-Drowsiness-detection-CNN
+[github.com/AthithyaKrishnaa/H.266-Compression-Drowsiness-detection-CNN](https://github.com/AthithyaKrishnaa/H.266-Compression-Drowsiness-detection-CNN)
 
 - Built a real-time CNN-based system to detect eye closure, yawning, and head posture using 42,000+ eye images and 5,000+ yawn samples, achieving 93%+ mAP.
 
@@ -67,7 +69,7 @@ github.com/AthithyaKrishnaa/H.266-Compression-Drowsiness-detection-CNN
 - Integrated H.266/VVC-based compression pipeline achieving up to 80% storage reduction vs traditional H.264 while maintaining features critical for vision models.
 
 ### Image and Video Super-Resolution with Swin2SR
-github.com/AthithyaKrishnaa/2X-Swin2SR-VideoEnhancer
+[github.com/AthithyaKrishnaa/2X-Swin2SR-VideoEnhancer](https://github.com/AthithyaKrishnaa/2X-Swin2SR-VideoEnhancer)
 
 - Optimized Swin2SR training using mixed-precision techniques and tiled inference, accelerating convergence and enabling scalable high-resolution reconstruction with measurable gains in PSNR and SSIM metrics.
 
