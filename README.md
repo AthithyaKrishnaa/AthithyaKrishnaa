@@ -9,7 +9,7 @@
 
 ---
 
-## SUMMARY
+## PROFILE
 Information Technology undergraduate with practical experience in machine learning, MLOps, and cloud-based AI deployment. Skilled in designing and optimizing end-to-end ML pipelines, model evaluation, AWS integration, and deployment testing across local and cloud environments. Interested in production AI systems, MLOps, cloud computing, and large-scale intelligent applications.
 
 ---
