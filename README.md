@@ -57,11 +57,6 @@ Bachelor of Technology in Information Technology | CGPA: 8.6 / 10.0 | 2023 – 2
 [github.com/AthithyaKrishnaa/vvc-h.266-compression](https://github.com/AthithyaKrishnaa/vvc-h.266-compression) | Dec 2025 – Jan 2026
 - Integrated an H.266/VVC-based compression pipeline achieving up to 80% storage reduction vs traditional H.264 video compression while maintaining features critical for vision models.
 
----
-
-## OTHER PROJECTS
-*(from earlier work, not listed on current resume but kept here for portfolio depth — remove this section if you'd rather mirror the resume exactly)*
-
 ### AI-based Driver Drowsiness Detection using CNN
 [github.com/AthithyaKrishnaa/H.266-Compression-Drowsiness-detection-CNN](https://github.com/AthithyaKrishnaa/H.266-Compression-Drowsiness-detection-CNN)
 - Built a real-time CNN-based system to detect eye closure, yawning, and head posture using 42,000+ eye images and 5,000+ yawn samples, achieving 93%+ mAP.
